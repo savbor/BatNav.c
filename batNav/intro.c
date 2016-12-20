@@ -27,7 +27,7 @@ void intro(void){
 	printf(" _/    _/_/  _/    _/    _/  _/    _/    _/  _/  _/          \n");	
 	printf("_/      _/    _/_/_/      _/        _/_/_/  _/    _/_/_/    \n");	
 
-	getchar(); 	/* Quando preme un stasto continua*/
+	getchar(); 	/* Quando preme un tasto continua*/
 	
 	clearCls();	/* Pulisce lo schermo */
 
